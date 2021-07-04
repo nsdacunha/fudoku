@@ -1,0 +1,2 @@
+* Fudoku
+A sudoku solver implemented on an fpga. Supports the elimination, only choice, and naked twins strategy. Will use recursion to solve tougher problems.
